@@ -5,7 +5,7 @@
     <id>UMLClass</id>
     <coordinates>
       <x>290</x>
-      <y>110</y>
+      <y>100</y>
       <w>260</w>
       <h>30</h>
     </coordinates>
@@ -16,7 +16,7 @@
     <id>UMLClass</id>
     <coordinates>
       <x>620</x>
-      <y>110</y>
+      <y>100</y>
       <w>280</w>
       <h>30</h>
     </coordinates>
@@ -27,7 +27,7 @@
     <id>UMLClass</id>
     <coordinates>
       <x>990</x>
-      <y>110</y>
+      <y>100</y>
       <w>260</w>
       <h>30</h>
     </coordinates>
@@ -38,7 +38,7 @@
     <id>UMLClass</id>
     <coordinates>
       <x>290</x>
-      <y>150</y>
+      <y>140</y>
       <w>260</w>
       <h>220</h>
     </coordinates>
@@ -51,9 +51,9 @@
 --
 사용자 정보
 --
-- ID
+- 이메일
 - 전화 번호
-- 연결된 카카오톡 아이디 정보
+- 패스워드
 
 - 소속 그룹
 - 사용자 정보 태그 
@@ -65,7 +65,7 @@
     <id>UMLClass</id>
     <coordinates>
       <x>620</x>
-      <y>150</y>
+      <y>140</y>
       <w>280</w>
       <h>730</h>
     </coordinates>
@@ -107,7 +107,8 @@
 --
 - PUBLIC/PRIVATE 지정
 - 카테고리 추가 및 폼 등록
-- 채팅 참여자의 권한 설정
+- 채팅 참여자의 권한
+(Read, Write, Setting, 초대) 설정
 - 강퇴기능
 --
 채팅 필터 옵션
@@ -127,7 +128,7 @@
     <id>UMLClass</id>
     <coordinates>
       <x>990</x>
-      <y>150</y>
+      <y>140</y>
       <w>260</w>
       <h>550</h>
     </coordinates>
@@ -176,7 +177,7 @@
     <id>UMLClass</id>
     <coordinates>
       <x>300</x>
-      <y>270</y>
+      <y>260</y>
       <w>190</w>
       <h>50</h>
     </coordinates>
@@ -188,7 +189,7 @@
     <id>UMLState</id>
     <coordinates>
       <x>200</x>
-      <y>270</y>
+      <y>260</y>
       <w>90</w>
       <h>30</h>
     </coordinates>
@@ -199,7 +200,7 @@
     <id>Relation</id>
     <coordinates>
       <x>410</x>
-      <y>60</y>
+      <y>50</y>
       <w>600</w>
       <h>460</h>
     </coordinates>
@@ -210,7 +211,7 @@
     <id>UMLState</id>
     <coordinates>
       <x>690</x>
-      <y>30</y>
+      <y>20</y>
       <w>130</w>
       <h>30</h>
     </coordinates>
@@ -221,7 +222,7 @@
     <id>Relation</id>
     <coordinates>
       <x>410</x>
-      <y>290</y>
+      <y>280</y>
       <w>230</w>
       <h>90</h>
     </coordinates>
@@ -232,7 +233,7 @@
     <id>UMLState</id>
     <coordinates>
       <x>450</x>
-      <y>370</y>
+      <y>360</y>
       <w>130</w>
       <h>30</h>
     </coordinates>
