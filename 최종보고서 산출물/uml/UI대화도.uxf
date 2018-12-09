@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<diagram program="umlet" version="14.3.0">
+<diagram program="umlet" version="14.2">
   <zoom_level>10</zoom_level>
   <element>
     <id>UMLClass</id>
@@ -47,7 +47,7 @@
 - 대화방 관리자
 - READ 권한을 가진 사용자
 - WRITE/READ 권한을 가진 사용자
-- 카테고리 폼 판매자
+- 폼 판매자
 --
 사용자 정보
 --
@@ -132,7 +132,7 @@
       <w>260</w>
       <h>550</h>
     </coordinates>
-    <panel_attributes>카테고리 커스텀 UI 제공
+    <panel_attributes>사용자 폼 UI 제공
 --
 - 텍스트 링크
 - 고정 텍스트 
@@ -149,14 +149,14 @@
 - STATE(WORKFLOW) 등록
 - 우선순위 등록
 --
-카테고리 커스텀 API 제공
+플러그인 정보
 --
 - 사용자 정보 연결
 - 지원 언어
 - 외부 API 연동
 - 프로그래밍
 --
-카테고리 폼 판매 옵션
+폼 옵션
 --
 - 구매자 사용 후기
 - 판매자의 카테고리 폼 설명
